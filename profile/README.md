@@ -1,4 +1,4 @@
-# CalculatePrice Specification
+# Pricing Specification
 
 This repository contains the specification defining the data structure for the following commands and events:
 
