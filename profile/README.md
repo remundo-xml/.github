@@ -1,18 +1,23 @@
-# Pricing Specification
+# Remundo platform
 
-This repository contains the specification defining the data structure for the following commands and events:
+We help you onboard, equip and manage people in another country. We sort out all the pesky legal and HR details leaving you free to focus on your business strategy and developing your route to market.
 
-- `CalculatePrice` command
-- `PriceCalculated` event
+## Platform UI
 
-## Purpose
+The plarform provide a web user interface to onboard employee or contractor
+![image](https://github.com/user-attachments/assets/23946cfa-b24f-431a-87a8-2a976703b4f3)
 
-Provide a unified, comprehensive data structure covering all job constraints relevant to calculating employment costs for **every country in the world**.
+## Backend As A Service
 
-## Structure
+You can integrate your user interface with our BAAS platform. We will give you access to an admin panel with the documentation and developer credentials. 
 
-*(JSON schema)*
+The admin area also provides a live updates panel to follow the operations in real time
 
-## Usage
+GET example
+![image](https://github.com/user-attachments/assets/8e423df1-e55d-410e-bfda-ddf8bfd14248)
 
-## Contributing
+Live Updates panel
+![image](https://github.com/user-attachments/assets/02dbfa41-42ad-4e2b-95e3-7708345501f3)
+
+Submit Employee payload
+![image](https://github.com/user-attachments/assets/193595af-0f02-4478-91d3-f917fff6fce9)
